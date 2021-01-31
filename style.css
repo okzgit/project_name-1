@@ -18,3 +18,21 @@ header h1,header p {
 header ul {
     float: right;
 }
+
+main {
+    width: 8%;
+    line-height: 12px;
+    background: #666;
+    color: chartreuse;
+}
+
+footer {
+    text-align: center;
+    background: #444;
+    color: white;
+}
+
+footer footerR {
+    display: inline;
+    margin: 20px;
+}
